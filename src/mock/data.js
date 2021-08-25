@@ -50,7 +50,7 @@ export const projectsData = [
     title: 'note project (full stack)',
     info: 'A Crud Web App which allows you to add or delete custom notes.',
     info2: 'React | Material UI | Java | MySql | Postman ',
-    url: '',
+    url: 'https://zak-aden1.github.io/note-project/',
     repo: 'https://github.com/Zak-aden1/note-project', // if no repo, the button will not show up
   },
   {
@@ -59,7 +59,7 @@ export const projectsData = [
     title: 'Word Hunt',
     info: 'A Web App which Allows you to check the definition of any word in four different languages',
     info2: 'React | Material UI | API | SASS',
-    url: '',
+    url: 'https://zak-aden1.github.io/word-hunt/',
     repo: 'https://github.com/Zak-aden1/word-hunt', // if no repo, the button will not show up
   },
   {
